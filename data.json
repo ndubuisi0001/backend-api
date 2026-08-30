@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name":"ndubuisi chijindu",
+        "email": "ndubuisichijindu@project.com",
+        "age": 15
+        
+    },
+    {
+        "id": 2,
+        "name":"ndubuisi amara",
+        "email": "ndubuisiamara@project.com",
+        "age": 18
+
+    },
+    {
+        "id": 3,
+        "name":"ndubuisi chukwuemeka",
+        "email": "ndubuisichukwuemeka@project.com",
+        "age": 19
+    },
+    {
+        "id": 4,
+        "name":"ndubuisi chiemerie",
+        "email": "ndubuisichiemerie@project.com",
+        "age": 21
+    },
+    {
+        "id": 5,
+        "name":"ndubuisi ezinne",
+        "email": "ndubuisiezinne@project.com",
+        "age": 25
+    }
+]
