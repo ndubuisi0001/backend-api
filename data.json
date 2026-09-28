@@ -30,5 +30,17 @@
         "name":"ndubuisi ezinne",
         "email": "ndubuisiezinne@project.com",
         "age": 25
-    }
+    }, 
+  {
+  "id": 6, 
+  "name": "ndubuisi ngozi",
+  "email": "ndubuisingozu@project.com", 
+  "age" : 46
+}, 
+{
+    "id": 7, 
+    "name": "ndubuisi christopher", 
+    "email": "ndubuisichristopher@project.com", 
+    "age" : 47
+} 
 ]
