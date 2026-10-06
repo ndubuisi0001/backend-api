@@ -1,46 +1,38 @@
 [
-    {
-        "id": 1,
-        "name":"ndubuisi chijindu",
-        "email": "ndubuisichijindu@project.com",
-        "age": 15
-        
-    },
-    {
-        "id": 2,
-        "name":"ndubuisi amara",
-        "email": "ndubuisiamara@project.com",
-        "age": 18
-
-    },
-    {
-        "id": 3,
-        "name":"ndubuisi chukwuemeka",
-        "email": "ndubuisichukwuemeka@project.com",
-        "age": 19
-    },
-    {
-        "id": 4,
-        "name":"ndubuisi chiemerie",
-        "email": "ndubuisichiemerie@project.com",
-        "age": 21
-    },
-    {
-        "id": 5,
-        "name":"ndubuisi ezinne",
-        "email": "ndubuisiezinne@project.com",
-        "age": 25
-    }, 
   {
-  "id": 6, 
-  "name": "ndubuisi ngozi",
-  "email": "ndubuisingozu@project.com", 
-  "age" : 46
-}, 
-{
-    "id": 7, 
-    "name": "ndubuisi christopher", 
-    "email": "ndubuisichristopher@project.com", 
-    "age" : 47
-} 
+    "id": 1,
+    "name": "ndubuisi chijindu",
+    "email": "ndubuisichijindu@project.com",
+    "age": 15
+  },
+  {
+    "id": 2,
+    "name": "ndubuisi amara",
+    "email": "ndubuisiamara@project.com",
+    "age": 18
+  },
+  {
+    "id": 3,
+    "name": "ndubuisi chukwuemeka",
+    "email": "ndubuisichukwuemeka@project.com",
+    "age": 19
+  },
+  {
+    "id": 4,
+    "name": "ndubuisi chiemerie",
+    "email": "ndubuisichiemerie@project.com",
+    "age": 21
+  },
+  {
+    "id": 6,
+    "name": "ndubuisi ngozi",
+    "email": "ndubuisingozu@project.com",
+    "age": 54
+  },
+  {
+    "id": 7,
+    "name": "ndubuisi christopher maduabuchi",
+    "email": "ndubuisichristophernew@gmail.com",
+    "age": 67
+  }
 ]
