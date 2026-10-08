@@ -15,8 +15,11 @@ app.get("/api", (req, res) => { res.json({
         "GET /api/users",
         "GET /api/users/count",
         "GET /api/users/:id",
-      "GET /api/users?name=NAME"
-    ]
+      "GET /api/users?name=NAME",
+      "POST /api/users",
+      "PUT /api/users/:id",
+      "DELETE/api/users/:id"
+]
 });
 });
 app.get("/api/users", (req, res) => {const users = readUsers(); const name = req.query.name; if (name) { const results = users.filter(user=> user.name.toLowerCase ().includes (name.toLowerCase()));return res.json (results);}res.json(users);});
